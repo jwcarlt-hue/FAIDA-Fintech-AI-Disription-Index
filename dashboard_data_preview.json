@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "updated_at": "February 08, 2026 03:02 EST",
+    "total_tracked": 251,
+    "avg_risk_score": 50.8,
+    "preview_mode": true,
+    "showing_ranks": "68-82"
+  },
+  "risk_distribution": {
+    "CRITICAL": 0,
+    "HIGH": 53,
+    "ELEVATED": 155,
+    "MODERATE": 43,
+    "LOW": 0
+  },
+  "top_rankings": [
+    {
+      "rank": 68,
+      "name": "MoneyGuidePro",
+      "ticker": "Private",
+      "category": "Financial Planning",
+      "market_cap_b": 2.8,
+      "arr_m": 280.0,
+      "total_risk_score": 57.9,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 70,
+        "revenue_concentration": 78,
+        "proprietary_data": 45,
+        "switching_costs": 32,
+        "regulatory_moat": 52
+      },
+      "competitive_threats": [
+        "High"
+      ]
+    },
+    {
+      "rank": 69,
+      "name": "Gusto Embedded",
+      "ticker": "Private",
+      "category": "Payroll",
+      "market_cap_b": 10.0,
+      "arr_m": 85.0,
+      "total_risk_score": 57.7,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 66,
+        "revenue_concentration": 70,
+        "proprietary_data": 52,
+        "switching_costs": 42,
+        "regulatory_moat": 46
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 70,
+      "name": "Capdesk",
+      "ticker": "Private",
+      "category": "Equity Mgmt",
+      "market_cap_b": 0.45,
+      "arr_m": 28.0,
+      "total_risk_score": 57.7,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 64,
+        "revenue_concentration": 70,
+        "proprietary_data": 50,
+        "switching_costs": 40,
+        "regulatory_moat": 60
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 71,
+      "name": "Found",
+      "ticker": "Private",
+      "category": "SMB Finance",
+      "market_cap_b": 0.32,
+      "arr_m": 18.0,
+      "total_risk_score": 57.7,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 64,
+        "revenue_concentration": 70,
+        "proprietary_data": 50,
+        "switching_costs": 44,
+        "regulatory_moat": 54
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 72,
+      "name": "Personal Capital",
+      "ticker": "Private",
+      "category": "Wealth Tech",
+      "market_cap_b": 3.0,
+      "arr_m": 220.0,
+      "total_risk_score": 57.5,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 64,
+        "revenue_concentration": 70,
+        "proprietary_data": 48,
+        "switching_costs": 54,
+        "regulatory_moat": 42
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 73,
+      "name": "TurboTax",
+      "ticker": "INTU",
+      "category": "Tax Software",
+      "market_cap_b": 175.0,
+      "arr_m": 3200.0,
+      "total_risk_score": 57.5,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 70,
+        "revenue_concentration": 60,
+        "proprietary_data": 50,
+        "switching_costs": 50,
+        "regulatory_moat": 45
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 74,
+      "name": "Practifi",
+      "ticker": "Private",
+      "category": "CRM",
+      "market_cap_b": 0.85,
+      "arr_m": 65.0,
+      "total_risk_score": 57.2,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 66,
+        "revenue_concentration": 70,
+        "proprietary_data": 48,
+        "switching_costs": 40,
+        "regulatory_moat": 54
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 75,
+      "name": "Nitrogen",
+      "ticker": "Private",
+      "category": "Risk Analysis",
+      "market_cap_b": 1.2,
+      "arr_m": 85.0,
+      "total_risk_score": 57.2,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 66,
+        "revenue_concentration": 70,
+        "proprietary_data": 48,
+        "switching_costs": 40,
+        "regulatory_moat": 54
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 76,
+      "name": "Tipalti",
+      "ticker": "Private",
+      "category": "Invoice",
+      "market_cap_b": 8.5,
+      "arr_m": 280.0,
+      "total_risk_score": 57.0,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 64,
+        "revenue_concentration": 70,
+        "proprietary_data": 48,
+        "switching_costs": 44,
+        "regulatory_moat": 52
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 77,
+      "name": "PaySimple",
+      "ticker": "Private",
+      "category": "Invoice",
+      "market_cap_b": 0.28,
+      "arr_m": 28.0,
+      "total_risk_score": 57.0,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 64,
+        "revenue_concentration": 70,
+        "proprietary_data": 48,
+        "switching_costs": 44,
+        "regulatory_moat": 52
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 78,
+      "name": "Prosper",
+      "ticker": "Private",
+      "category": "Lending",
+      "market_cap_b": 0.28,
+      "arr_m": 42.0,
+      "total_risk_score": 56.9,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 58,
+        "revenue_concentration": 78,
+        "proprietary_data": 44,
+        "switching_costs": 58,
+        "regulatory_moat": 42
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 79,
+      "name": "Wealthbox",
+      "ticker": "Private",
+      "category": "CRM",
+      "market_cap_b": 0.85,
+      "arr_m": 68.0,
+      "total_risk_score": 56.7,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 65,
+        "revenue_concentration": 70,
+        "proprietary_data": 48,
+        "switching_costs": 40,
+        "regulatory_moat": 52
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 80,
+      "name": "Zoho Books",
+      "ticker": "Private",
+      "category": "Accounting",
+      "market_cap_b": 2.4,
+      "arr_m": 180.0,
+      "total_risk_score": 56.3,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 66,
+        "revenue_concentration": 68,
+        "proprietary_data": 44,
+        "switching_costs": 38,
+        "regulatory_moat": 62
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 81,
+      "name": "Metromile",
+      "ticker": "Private",
+      "category": "Insurance",
+      "market_cap_b": 0.24,
+      "arr_m": 42.0,
+      "total_risk_score": 56.2,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 58,
+        "revenue_concentration": 78,
+        "proprietary_data": 45,
+        "switching_costs": 58,
+        "regulatory_moat": 32
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    },
+    {
+      "rank": 82,
+      "name": "Sure",
+      "ticker": "Private",
+      "category": "Insurance",
+      "market_cap_b": 0.55,
+      "arr_m": 38.0,
+      "total_risk_score": 56.1,
+      "risk_level": "ELEVATED",
+      "disruption_horizon": "24-36 months",
+      "metrics": {
+        "ai_replicability": 58,
+        "revenue_concentration": 78,
+        "proprietary_data": 44,
+        "switching_costs": 58,
+        "regulatory_moat": 34
+      },
+      "competitive_threats": [
+        "Elevated"
+      ]
+    }
+  ],
+  "active_ai_threats": [
+    {
+      "name": "Claude Cowork",
+      "impact_count": 47,
+      "launched": "Feb 3, 2026"
+    },
+    {
+      "name": "GPT-4 Turbo",
+      "impact_count": 32,
+      "launched": "Jan 28, 2026"
+    },
+    {
+      "name": "Other AI Tools",
+      "impact_count": 28,
+      "launched": "Various"
+    }
+  ]
+}
